@@ -47,28 +47,7 @@ Follow these steps to get a local copy of the project up and running:
    - **Lowercase**: Converts the input text to lowercase.
    - **Extract Emails**: Scans the text and extracts all email addresses.
 
-## Project Structure
 
-TextUtils/
-├── public/
-│   ├── index.html
-│   ├── favicon.ico
-│   └── manifest.json
-├── src/
-│   ├── components/
-│   │   ├── EmailExtractor.js
-│   │   ├── TextTransformer.js
-│   │   └── Navbar.js
-│   ├── App.js
-│   ├── index.js
-│   ├── App.css
-│   ├── index.css
-│   └── reportWebVitals.js
-├── .gitignore
-├── package.json
-├── package-lock.json
-├── tailwind.config.js
-└── README.md
 
 
 
